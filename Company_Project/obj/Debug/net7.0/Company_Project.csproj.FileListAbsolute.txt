@@ -1,0 +1,29 @@
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\bin\Debug\net7.0\Company_Project.exe
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\bin\Debug\net7.0\Company_Project.deps.json
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\bin\Debug\net7.0\Company_Project.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\bin\Debug\net7.0\Company_Project.dll
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\bin\Debug\net7.0\Company_Project.pdb
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.sourcelink.json
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.dll
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\refint\Company_Project.dll
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.pdb
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\Nihad\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\ref\Company_Project.dll
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_25_10_company_copy\Company_Project\bin\Debug\net7.0\Company_Project.exe
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_25_10_company_copy\Company_Project\bin\Debug\net7.0\Company_Project.deps.json
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_25_10_company_copy\Company_Project\bin\Debug\net7.0\Company_Project.runtimeconfig.json
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_25_10_company_copy\Company_Project\bin\Debug\net7.0\Company_Project.dll
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_25_10_company_copy\Company_Project\bin\Debug\net7.0\Company_Project.pdb
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.AssemblyInfoInputs.cache
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.AssemblyInfo.cs
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.dll
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\refint\Company_Project.dll
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.pdb
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\Company_Project.genruntimeconfig.cache
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_25_10_company_copy\Company_Project\obj\Debug\net7.0\ref\Company_Project.dll
